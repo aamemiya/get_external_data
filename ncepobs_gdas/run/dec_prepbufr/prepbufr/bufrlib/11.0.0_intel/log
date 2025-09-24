@@ -1,0 +1,2202 @@
+ifort: コマンドライン警告 #10006: 不明なオプション '-traditional-cpp' を無視します。
+modv_MAXCD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXCD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXCD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXCD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXCD.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXCD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXCD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXCD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXCD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXCD.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXCD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXCD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXCD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXCD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXCD.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXCD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXCD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXCD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXCD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXCD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXCD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXCD.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXCD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXCD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXCD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXCD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXCD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXCD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXCD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXCD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXCD.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXCD.f で異常終了しました (コード 1)。
+modv_MAXJL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXJL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXJL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXJL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXJL.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXJL.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXJL.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXJL.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXJL.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXJL.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXJL.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXJL.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXJL.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXJL.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXJL.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXJL.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXJL.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXJL.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXJL.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXJL.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXJL.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXJL.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXJL.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXJL.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXJL.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXJL.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXJL.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXJL.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXJL.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXJL.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXJL.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXJL.f で異常終了しました (コード 1)。
+modv_MAXMEM.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXMEM.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXMEM.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXMEM.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXMEM.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXMEM.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXMEM.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXMEM.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXMEM.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXMEM.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXMEM.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXMEM.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXMEM.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXMEM.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXMEM.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXMEM.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXMEM.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXMEM.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXMEM.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXMEM.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXMEM.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXMEM.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXMEM.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXMEM.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXMEM.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXMEM.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXMEM.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXMEM.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXMEM.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXMEM.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXMEM.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXMEM.f で異常終了しました (コード 1)。
+modv_MAXMSG.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXMSG.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXMSG.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXMSG.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXMSG.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXMSG.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXMSG.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXMSG.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXMSG.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXMSG.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXMSG.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXMSG.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXMSG.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXMSG.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXMSG.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXMSG.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXMSG.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXMSG.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXMSG.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXMSG.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXMSG.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXMSG.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXMSG.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXMSG.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXMSG.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXMSG.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXMSG.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXMSG.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXMSG.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXMSG.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXMSG.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXMSG.f で異常終了しました (コード 1)。
+modv_MAXSS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXSS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXSS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXSS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXSS.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXSS.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXSS.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXSS.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXSS.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXSS.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXSS.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXSS.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXSS.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXSS.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXSS.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXSS.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXSS.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXSS.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXSS.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXSS.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXSS.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXSS.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXSS.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXSS.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXSS.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXSS.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXSS.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXSS.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXSS.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXSS.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXSS.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXSS.f で異常終了しました (コード 1)。
+modv_MAXTBA.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXTBA.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXTBA.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXTBA.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXTBA.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXTBA.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXTBA.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXTBA.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXTBA.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXTBA.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXTBA.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXTBA.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXTBA.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXTBA.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXTBA.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXTBA.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXTBA.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXTBA.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXTBA.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXTBA.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXTBA.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXTBA.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXTBA.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXTBA.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXTBA.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXTBA.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXTBA.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXTBA.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXTBA.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXTBA.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXTBA.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXTBA.f で異常終了しました (コード 1)。
+modv_MAXTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXTBB.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXTBB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXTBB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXTBB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXTBB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXTBB.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXTBB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXTBB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXTBB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXTBB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXTBB.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXTBB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXTBB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXTBB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXTBB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXTBB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXTBB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXTBB.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXTBB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXTBB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXTBB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXTBB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXTBB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXTBB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXTBB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXTBB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXTBB.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXTBB.f で異常終了しました (コード 1)。
+modv_MAXTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MAXTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MAXTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MAXTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MAXTBD.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MAXTBD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MAXTBD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MAXTBD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MAXTBD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MAXTBD.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MAXTBD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MAXTBD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MAXTBD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MAXTBD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MAXTBD.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MAXTBD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MAXTBD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MAXTBD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MAXTBD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MAXTBD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MAXTBD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MAXTBD.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MAXTBD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MAXTBD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MAXTBD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MAXTBD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MAXTBD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MAXTBD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MAXTBD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MAXTBD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MAXTBD.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MAXTBD.f で異常終了しました (コード 1)。
+modv_MXCDV.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXCDV.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXCDV.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXCDV.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXCDV.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXCDV.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXCDV.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXCDV.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXCDV.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXCDV.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXCDV.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXCDV.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXCDV.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXCDV.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXCDV.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXCDV.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXCDV.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXCDV.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXCDV.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXCDV.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXCDV.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXCDV.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXCDV.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXCDV.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXCDV.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXCDV.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXCDV.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXCDV.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXCDV.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXCDV.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXCDV.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXCDV.f で異常終了しました (コード 1)。
+modv_MXCSB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXCSB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXCSB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXCSB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXCSB.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXCSB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXCSB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXCSB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXCSB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXCSB.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXCSB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXCSB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXCSB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXCSB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXCSB.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXCSB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXCSB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXCSB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXCSB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXCSB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXCSB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXCSB.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXCSB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXCSB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXCSB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXCSB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXCSB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXCSB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXCSB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXCSB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXCSB.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXCSB.f で異常終了しました (コード 1)。
+modv_MXDXTS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXDXTS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXDXTS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXDXTS.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXDXTS.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXDXTS.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXDXTS.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXDXTS.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXDXTS.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXDXTS.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXDXTS.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXDXTS.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXDXTS.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXDXTS.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXDXTS.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXDXTS.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXDXTS.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXDXTS.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXDXTS.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXDXTS.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXDXTS.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXDXTS.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXDXTS.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXDXTS.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXDXTS.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXDXTS.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXDXTS.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXDXTS.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXDXTS.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXDXTS.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXDXTS.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXDXTS.f で異常終了しました (コード 1)。
+modv_MXH4WLC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXH4WLC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXH4WLC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXH4WLC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXH4WLC.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXH4WLC.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXH4WLC.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXH4WLC.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXH4WLC.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXH4WLC.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXH4WLC.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXH4WLC.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXH4WLC.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXH4WLC.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXH4WLC.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXH4WLC.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXH4WLC.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXH4WLC.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXH4WLC.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXH4WLC.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXH4WLC.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXH4WLC.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXH4WLC.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXH4WLC.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXH4WLC.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXH4WLC.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXH4WLC.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXH4WLC.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXH4WLC.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXH4WLC.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXH4WLC.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXH4WLC.f で異常終了しました (コード 1)。
+modv_MXLCC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXLCC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXLCC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXLCC.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXLCC.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXLCC.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXLCC.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXLCC.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXLCC.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXLCC.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXLCC.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXLCC.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXLCC.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXLCC.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXLCC.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXLCC.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXLCC.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXLCC.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXLCC.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXLCC.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXLCC.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXLCC.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXLCC.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXLCC.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXLCC.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXLCC.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXLCC.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXLCC.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXLCC.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXLCC.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXLCC.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXLCC.f で異常終了しました (コード 1)。
+modv_MXMSGL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXMSGL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXMSGL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXMSGL.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXMSGL.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXMSGL.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXMSGL.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXMSGL.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXMSGL.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXMSGL.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXMSGL.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXMSGL.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXMSGL.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXMSGL.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXMSGL.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXMSGL.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXMSGL.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXMSGL.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXMSGL.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXMSGL.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXMSGL.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXMSGL.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXMSGL.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXMSGL.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXMSGL.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXMSGL.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXMSGL.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXMSGL.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXMSGL.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXMSGL.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXMSGL.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXMSGL.f で異常終了しました (コード 1)。
+modv_MXMTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXMTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXMTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXMTBB.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXMTBB.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXMTBB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXMTBB.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXMTBB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXMTBB.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXMTBB.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXMTBB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXMTBB.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXMTBB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXMTBB.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXMTBB.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXMTBB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXMTBB.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXMTBB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXMTBB.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXMTBB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXMTBB.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXMTBB.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXMTBB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXMTBB.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXMTBB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXMTBB.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXMTBB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXMTBB.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXMTBB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXMTBB.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXMTBB.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXMTBB.f で異常終了しました (コード 1)。
+modv_MXMTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXMTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXMTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXMTBD.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXMTBD.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXMTBD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXMTBD.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXMTBD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXMTBD.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXMTBD.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXMTBD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXMTBD.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXMTBD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXMTBD.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXMTBD.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXMTBD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXMTBD.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXMTBD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXMTBD.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXMTBD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXMTBD.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXMTBD.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXMTBD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXMTBD.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXMTBD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXMTBD.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXMTBD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXMTBD.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXMTBD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXMTBD.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXMTBD.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXMTBD.f で異常終了しました (コード 1)。
+modv_MXS01V.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_MXS01V.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_MXS01V.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_MXS01V.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_MXS01V.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_MXS01V.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_MXS01V.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_MXS01V.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_MXS01V.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_MXS01V.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_MXS01V.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_MXS01V.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_MXS01V.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_MXS01V.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_MXS01V.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_MXS01V.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_MXS01V.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_MXS01V.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_MXS01V.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_MXS01V.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_MXS01V.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_MXS01V.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_MXS01V.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_MXS01V.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_MXS01V.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_MXS01V.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_MXS01V.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_MXS01V.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_MXS01V.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_MXS01V.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_MXS01V.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_MXS01V.f で異常終了しました (コード 1)。
+modv_NFILES.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+modv_NFILES.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+modv_NFILES.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+modv_NFILES.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+modv_NFILES.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+modv_NFILES.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+modv_NFILES.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+modv_NFILES.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+modv_NFILES.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+modv_NFILES.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+modv_NFILES.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+modv_NFILES.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+modv_NFILES.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+modv_NFILES.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+modv_NFILES.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+modv_NFILES.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+modv_NFILES.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+modv_NFILES.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+modv_NFILES.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+modv_NFILES.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+modv_NFILES.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+modv_NFILES.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+modv_NFILES.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+modv_NFILES.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+modv_NFILES.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+modv_NFILES.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+modv_NFILES.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+modv_NFILES.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+modv_NFILES.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+modv_NFILES.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+modv_NFILES.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは modv_NFILES.f で異常終了しました (コード 1)。
+moda_bitbuf.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_bitbuf.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_bitbuf.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_bitbuf.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_bitbuf.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_bitbuf.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_bitbuf.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_bitbuf.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_bitbuf.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_bitbuf.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_bitbuf.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_bitbuf.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_bitbuf.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_bitbuf.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_bitbuf.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_bitbuf.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_bitbuf.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_bitbuf.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_bitbuf.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_bitbuf.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_bitbuf.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_bitbuf.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_bitbuf.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_bitbuf.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_bitbuf.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_bitbuf.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_bitbuf.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_bitbuf.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+moda_bitbuf.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+moda_bitbuf.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+moda_bitbuf.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは moda_bitbuf.f で異常終了しました (コード 1)。
+moda_bufrmg.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_bufrmg.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_bufrmg.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_bufrmg.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_bufrmg.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_bufrmg.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_bufrmg.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_bufrmg.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_bufrmg.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_bufrmg.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_bufrmg.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_bufrmg.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_bufrmg.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_bufrmg.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_bufrmg.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_bufrmg.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_bufrmg.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_bufrmg.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_bufrmg.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_bufrmg.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_bufrmg.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_bufrmg.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_bufrmg.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_bufrmg.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_bufrmg.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_bufrmg.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_bufrmg.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_bufrmg.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+moda_bufrmg.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+moda_bufrmg.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+moda_bufrmg.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは moda_bufrmg.f で異常終了しました (コード 1)。
+moda_bufrsr.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_bufrsr.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_bufrsr.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_bufrsr.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_bufrsr.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_bufrsr.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_bufrsr.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_bufrsr.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_bufrsr.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_bufrsr.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_bufrsr.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_bufrsr.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_bufrsr.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_bufrsr.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_bufrsr.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_bufrsr.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_bufrsr.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_bufrsr.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_bufrsr.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_bufrsr.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_bufrsr.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_bufrsr.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_bufrsr.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_bufrsr.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_bufrsr.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_bufrsr.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_bufrsr.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_bufrsr.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+moda_bufrsr.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+moda_bufrsr.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+moda_bufrsr.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは moda_bufrsr.f で異常終了しました (コード 1)。
+moda_comprs.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_comprs.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_comprs.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_comprs.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_comprs.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_comprs.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_comprs.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_comprs.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_comprs.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_comprs.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_comprs.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_comprs.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_comprs.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_comprs.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_comprs.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_comprs.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_comprs.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_comprs.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_comprs.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_comprs.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_comprs.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_comprs.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_comprs.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_comprs.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_comprs.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_comprs.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_comprs.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_comprs.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+moda_comprs.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+moda_comprs.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+moda_comprs.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは moda_comprs.f で異常終了しました (コード 1)。
+moda_comprx.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_comprx.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_comprx.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_comprx.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_comprx.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_comprx.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_comprx.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_comprx.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_comprx.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_comprx.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_comprx.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_comprx.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_comprx.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_comprx.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_comprx.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_comprx.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_comprx.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_comprx.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_comprx.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_comprx.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_comprx.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_comprx.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_comprx.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_comprx.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_comprx.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_comprx.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_comprx.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_comprx.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+moda_comprx.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License along with the GNU C Library; if not, see
+---^
+moda_comprx.f(15): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License along with the GNU C Library; if not, see
+----^
+moda_comprx.f(16): 致命的なエラー: errors が多すぎます。終了します。
+コンパイルは moda_comprx.f で異常終了しました (コード 1)。
+moda_h4wlc.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [/]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+^
+moda_h4wlc.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [*]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-^
+moda_h4wlc.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [C]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+---^
+moda_h4wlc.f(1): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+----^
+moda_h4wlc.f(1): エラー #5118: ファイルの最初の文は続行していてはなりません。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----^
+moda_h4wlc.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   This file is part of the GNU C Library.
+---^
+moda_h4wlc.f(2): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   This file is part of the GNU C Library.
+----^
+moda_h4wlc.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is free software; you can redistribute it and/or
+---^
+moda_h4wlc.f(4): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is free software; you can redistribute it and/or
+----^
+moda_h4wlc.f(1): エラー #5082: 構文エラー、INTEGER_CONSTANT '1991' が見つかりました、 => = . [ % ( の 1 つを指定してください。
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+-----------------^
+moda_h4wlc.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [m]。
+   modify it under the terms of the GNU Lesser General Public
+---^
+moda_h4wlc.f(5): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   modify it under the terms of the GNU Lesser General Public
+----^
+moda_h4wlc.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   License as published by the Free Software Foundation; either
+---^
+moda_h4wlc.f(6): エラー #5149: 文ラベルフィールドの不正な文字です [i]。
+   License as published by the Free Software Foundation; either
+----^
+moda_h4wlc.f(4): エラー #5082: 構文エラー、'/' が見つかりました、 => = . [ % ( : の 1 つを指定してください。
+   The GNU C Library is free software; you can redistribute it and/or
+------------------------------------------------------------------^
+moda_h4wlc.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [v]。
+   version 2.1 of the License, or (at your option) any later version.
+---^
+moda_h4wlc.f(7): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   version 2.1 of the License, or (at your option) any later version.
+----^
+moda_h4wlc.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [T]。
+   The GNU C Library is distributed in the hope that it will be useful,
+---^
+moda_h4wlc.f(9): エラー #5149: 文ラベルフィールドの不正な文字です [h]。
+   The GNU C Library is distributed in the hope that it will be useful,
+----^
+moda_h4wlc.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [b]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+---^
+moda_h4wlc.f(10): エラー #5149: 文ラベルフィールドの不正な文字です [u]。
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+----^
+moda_h4wlc.f(7): エラー #5082: 構文エラー、INTEGER_CONSTANT '1' が見つかりました、 <IDENTIFIER> <CHAR_CON_KIND_PARAM> <CHAR_NAM_KIND_PARAM> <CHARACTER_CONSTANT> の 1 つを指定してください。
+   version 2.1 of the License, or (at your option) any later version.
+-------------^
+moda_h4wlc.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [M]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+---^
+moda_h4wlc.f(11): エラー #5149: 文ラベルフィールドの不正な文字です [E]。
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+----^
+moda_h4wlc.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [L]。
+   Lesser General Public License for more details.
+---^
+moda_h4wlc.f(12): エラー #5149: 文ラベルフィールドの不正な文字です [e]。
+   Lesser General Public License for more details.
+----^
+moda_h4wlc.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [Y]。
+   You should have received a copy of the GNU Lesser General Public
+---^
+moda_h4wlc.f(14): エラー #5149: 文ラベルフィールドの不正な文字です [o]。
+   You should have received a copy of the GNU Lesser General Public
+----^
+----^

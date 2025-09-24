@@ -1,0 +1,70 @@
+/* Copyright (C) 1991-2012 Free Software Foundation, Inc.
+   This file is part of the GNU C Library.
+
+   The GNU C Library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Lesser General Public
+   License as published by the Free Software Foundation; either
+   version 2.1 of the License, or (at your option) any later version.
+
+   The GNU C Library is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+   Lesser General Public License for more details.
+
+   You should have received a copy of the GNU Lesser General Public
+   License along with the GNU C Library; if not, see
+   <http://www.gnu.org/licenses/>.  */
+
+
+/* This header is separate from features.h so that the compiler can
+   include it implicitly at the start of every compilation.  It must
+   not itself include <features.h> or any other header that includes
+   <features.h> because the implicit include comes before any feature
+   test macros that may be defined in a source file before it first
+   explicitly includes a system header.  GCC knows the name of this
+   header in order to preinclude it.  */
+
+/* We do support the IEC 559 math functionality, real and complex.  */
+
+/* wchar_t uses ISO/IEC 10646 (2nd ed., published 2011-03-15) /
+   Unicode 6.0.  */
+
+/* We do not support C11 <threads.h>.  */
+
+C-----------------------------------------------------------------------
+C	Maximum number of Section 3 FXY descriptors that can be
+C	written into a BUFR message by the BUFRLIB software.
+
+	PARAMETER ( MAXNC = 600 )
+C-----------------------------------------------------------------------
+C	Maximum number of entries in the internal string cache.
+
+	PARAMETER ( MXS = 1000 )
+C-----------------------------------------------------------------------
+C	Maximum number of entries in the internal descriptor list cache.
+
+	PARAMETER ( MXCNEM = 450 )
+C-----------------------------------------------------------------------
+C	Maximum number of "long" character strings (i.e. greater than
+C       8 bytes) which can be read from a subset of a compressed BUFR
+C	message.
+
+	PARAMETER ( MXRST = 50 )
+C-----------------------------------------------------------------------
+C	Maximum number of jump/link table entries which can be used to
+C	store new reference values (as defined using the 2-03 operator).
+
+	PARAMETER ( MXNRV = 12 )
+C-----------------------------------------------------------------------
+C	Maximum number of 2-04 associated fields that can be in effect
+C	at the same time for any given Table B descriptor.
+
+	PARAMETER ( MXNAF = 3 )
+C-----------------------------------------------------------------------
+C	BUFRLIB "missing" value.  The default value for BMISS is set
+C	within subroutine BFRINI, but it can be modified by the user via
+C	a subsequent call to subroutine SETBMISS.
+
+	COMMON /BUFRBMISS/ BMISS
+	REAL*8  BMISS
+C-----------------------------------------------------------------------

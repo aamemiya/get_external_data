@@ -1,0 +1,645 @@
+[2025-09-23 18]
+ NUMBER OF BYTES IN INPUT BUFR FILE   =     62429216
+ grabbufr:         4669  BUFR messages copied. 
+================================================================================
+                  SYNOPSIS OF PREPBUFR DECODER using BUFRLIB
+                              by TAKEMASA MIYOSHI
+--------------------------------------------------------------------------------
+ TOTAL NUMBER OF READ-IN RECORDS:    629457
+ TOTAL NUMBER OF WRITTEN RECORDS:    154926 (levels/variables separately)
+--------------------------------------------------------------------------------
+  ADPUPA  AIRCAR  AIRCFT  SATWND  PROFLR  VADWND  SATEMP  ADPSFC  SFCSHP  SFCBOG
+      99       0    3074  190574       0    3535       0  176512   55400       0
+    6357       0       3  116910       0       0       0   15226    4540       0
+--------------------------------------------------------------------------------
+  SPSSMI  SYNDAT  ERS1DA  GOESND  QKSWND  MSONET  GPSIPW  RASSDA  WDSATR  ASCATW
+       0     211       0       0       0       0       0     226       0  199826
+       0    1500       0       0       0       0       0       0       0   10390
+--------------------------------------------------------------------------------
+  OTHERS
+       0
+       0
+================================================================================
+ get_nobs
+    154926 OBSERVATIONS INPUT
+ 
+================================================
+ read observations and general/vertical superob 
+================================================
+read obs file: fort.90  
+           1           0
+           2       11481
+           3        3239
+           4       94372
+           5       40390
+           6        5444
+           7           0
+ 
+statistics of original obs file:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:    154926
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:    1873   1873      0   1774    837      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       1      1      1      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:   58455  58455      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0    526   4715   4715      0   5270      0
+      0      0      0      0      0      0      0      0
+SFCSHP:     812    812    273    664    664      0   1315      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:     750    750      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:    5195   5195      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+observation number reduced because outside model boundary:      1107
+observation number reduced because not to use these type/variables:         0
+observation number reduced because unsupported type:         0
+observation number reduced by vertical superob:      5711
+ 
+statistics after general and vertical superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:    149215
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:     203    203      0    134    106      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       1      1      1      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:   58455  58455      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0    526   4715   4715      0   5270      0
+      0      0      0      0      0      0      0      0
+SFCSHP:     812    812    273    664    664      0   1315      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:     750    750      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:    5195   5195      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+================================================
+ temporal superob                               
+================================================
+processing ADPUPA
+processing AIRCAR
+processing AIRCFT
+processing SATWND
+processing PROFLR
+processing VADWND
+processing SATEMP
+processing ADPSFC
+processing SFCSHP
+processing SFCBOG
+processing SPSSMI
+processing SYNDAT
+processing ERS1DA
+processing GOESND
+processing QKSWND
+processing MSONET
+processing GPSIPW
+processing RASSDA
+processing WDSATR
+processing ASCATW
+processing TMPAPR
+processing PHARAD
+processing H08IRB
+processing TCVITL
+observation number reduced by temporal superob:      3492
+ 
+statistics after temporal superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:    145723
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:     203    203      0    134    106      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       1      1      1      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:   58455  58455      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0    526   4715   4715      0   5270      0
+      0      0      0      0      0      0      0      0
+SFCSHP:     213    213     63    170    170      0    219      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:     750    750      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:    5195   5195      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+================================================
+ all grid superob (horizontal + vertical)       
+================================================
+processing ADPUPA
+processing AIRCAR
+processing AIRCFT
+processing SATWND
+processing PROFLR
+processing VADWND
+processing SATEMP
+processing ADPSFC
+processing SFCSHP
+processing SFCBOG
+processing SPSSMI
+processing SYNDAT
+processing ERS1DA
+processing GOESND
+processing QKSWND
+processing MSONET
+processing GPSIPW
+processing RASSDA
+processing WDSATR
+processing ASCATW
+processing TMPAPR
+processing PHARAD
+processing H08IRB
+processing TCVITL
+observation number reduced by all grid superob:     93207
+ 
+statistics after all grid superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:     52516
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:     203    203      0    134    106      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       1      1      1      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:   20703  20703      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0    245   2606   2606      0   2752      0
+      0      0      0      0      0      0      0      0
+SFCSHP:      93     93     36     78     78      0    150      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:     481    481      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:     381    381      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+write obs file after superob: fort.91  
+/data9/amemiya/get_external_data_sync/ncepobs_gdas/run/dec_prepbufr/convert.sh: line 71: ./dec_prepbufr_satreps: No such file or directory
+ get_nobs
+         0 OBSERVATIONS INPUT
+ 
+================================================
+ read observations and general/vertical superob 
+================================================
+read obs file: fort.90  
+           1           0
+           2           0
+           3           0
+           4           0
+           5           0
+           6           0
+           7           0
+ 
+statistics of original obs file:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:         0
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCSHP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+observation number reduced because outside model boundary:         0
+observation number reduced because not to use these type/variables:         0
+observation number reduced because unsupported type:         0
+observation number reduced by vertical superob:         0
+ 
+statistics after general and vertical superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:         0
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCSHP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+================================================
+ temporal superob                               
+================================================
+processing ADPUPA
+processing AIRCAR
+processing AIRCFT
+processing SATWND
+processing PROFLR
+processing VADWND
+processing SATEMP
+processing ADPSFC
+processing SFCSHP
+processing SFCBOG
+processing SPSSMI
+processing SYNDAT
+processing ERS1DA
+processing GOESND
+processing QKSWND
+processing MSONET
+processing GPSIPW
+processing RASSDA
+processing WDSATR
+processing ASCATW
+processing TMPAPR
+processing PHARAD
+processing H08IRB
+processing TCVITL
+observation number reduced by temporal superob:         0
+ 
+statistics after temporal superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:         0
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCSHP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+================================================
+ all grid superob (horizontal + vertical)       
+================================================
+processing ADPUPA
+processing AIRCAR
+processing AIRCFT
+processing SATWND
+processing PROFLR
+processing VADWND
+processing SATEMP
+processing ADPSFC
+processing SFCSHP
+processing SFCBOG
+processing SPSSMI
+processing SYNDAT
+processing ERS1DA
+processing GOESND
+processing QKSWND
+processing MSONET
+processing GPSIPW
+processing RASSDA
+processing WDSATR
+processing ASCATW
+processing TMPAPR
+processing PHARAD
+processing H08IRB
+processing TCVITL
+observation number reduced by all grid superob:         0
+ 
+statistics after all grid superob:
+================================================================================
+ TOTAL NUMBER OF OBSERVATIONS:         0
+--------------------------------------------------------------------------------
+              U      V      T     Tv      Q     RH     PS    PRC
+    REF    RE0     Vr    PRH    H08    TCX    TCY    TCP
+ADPUPA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCAR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+AIRCFT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PROFLR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+VADWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SATEMP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ADPSFC:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCSHP:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SFCBOG:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SPSSMI:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+SYNDAT:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ERS1DA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GOESND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+QKSWND:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+MSONET:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+GPSIPW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+RASSDA:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+WDSATR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+ASCATW:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TMPAPR:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+PHARAD:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+H08IRB:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+TCVITL:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+OTHERS:       0      0      0      0      0      0      0      0
+      0      0      0      0      0      0      0      0
+================================================================================
+ 
+write obs file after superob: fort.91  

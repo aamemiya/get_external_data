@@ -1,0 +1,1 @@
+ifort -fpp -assume byterecl -convert big_endian -fp-model source dec_prepbufr_satreps.f90 -o dec_prepbufr_satreps -Lbufrlib/10.1.0_intel/lib -lbufrlib
